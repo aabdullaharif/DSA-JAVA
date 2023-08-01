@@ -18,7 +18,6 @@ I will review your PR and, if everything looks good, merge it. Thank you for you
 
 If you have any questions or suggestions related to this repository or anything else, feel free to reach out to me:
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aabdullaharif)
+- LinkedIn: [aabdullaharif](https://www.linkedin.com/in/aabdullaharif)
 
 Happy coding! Keep learning and improving your DSA skills with Java! 🚀
