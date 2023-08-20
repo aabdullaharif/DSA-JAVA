@@ -1,8 +1,7 @@
 package Sorting;
+// Time Complexity: O(N2)
 
 import java.util.Arrays;
-
-// Time Complexity: O(N2)
 public class BubbleSort {
     public static void main(String[] args) {
         int[] arr = { -1, 2, -20, 88, 32, 0, -22, 22 };

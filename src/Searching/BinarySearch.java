@@ -1,7 +1,6 @@
 package Searching;
 // Time Complexity: O(log n)
 
-
 public class BinarySearch {
     public static void main(String[] args) {
 //        Order Agnostic Search

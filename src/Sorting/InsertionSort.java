@@ -1,7 +1,7 @@
-package Sorting;//Time Complexity: O(N2)
+package Sorting;
+//Time Complexity: O(N2)
 
 import java.util.Arrays;
-
 public class InsertionSort {
     public static void main(String[] args){
         int[] arr = { 4, 2, 3, 5, 1, 0 };
